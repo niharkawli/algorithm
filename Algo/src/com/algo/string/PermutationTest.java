@@ -1,3 +1,4 @@
+package com.algo.string;
 
 public class PermutationTest {
 
@@ -16,6 +17,6 @@ public class PermutationTest {
 	
 	public static void main(String[] args) {
 		PermutationTest test = new PermutationTest();
-		test.permutation("abc");
+		test.permutation("abcdef");
 	}
 }
